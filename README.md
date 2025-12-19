@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @itzmerai
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning html, css and javascript
-- 💞️ I’m looking to collaborate on individuals that will share their knowledge
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-itzmerai/itzmerai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @itzmerai
+I’m a motivated developer with a strong interest in software development and modern web technologies.
+👀 Interests: Web development and programming
+🌱 Currently: A full-stack freelance developer
+💞️ Collaboration: Open to collaborating with individuals or teams who value knowledge sharing and clean, scalable solutions
+📫 Contact: Available upon request
+😄 Pronouns: Add yours here
+⚡ Fun fact: I enjoy turning complex problems into simple, efficient solutions
