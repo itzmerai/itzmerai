@@ -71,7 +71,7 @@ I'm a full-stack software engineer based in the Philippines, building products a
 | **[Portfolio (current)](https://itzme-rai.vercel.app/)** | Interactive portfolio with admin panel, built with React, TypeScript, and Appwrite. | React, TypeScript, Appwrite |
 | **OJT Monitoring System** | Web + mobile platform automating internship tracking, reports, and evaluations. | React, Express, MySQL, Expo |
 
-See more on my [portfolio →](https://itzme-rai.vercel.app/)
+See more on my [portfolio →](https://itzmerai.netlify.app/)
 
 ---
 
