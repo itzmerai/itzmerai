@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://itzme-rai.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://itzmerai.netlify.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ryan-amasora-3763aa343/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/itzme_rai"><img alt="X" src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="mailto:ryanamasora71@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
