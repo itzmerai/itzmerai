@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://itzmerai.netlify.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://itzrai.itzmerai.xyz/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ryan-amasora-3763aa343/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/itzme_rai"><img alt="X" src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="mailto:ryanamasora71@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -68,10 +68,10 @@ I'm a full-stack software engineer based in the Philippines, building products a
 | Project | Description | Stack |
 | --- | --- | --- |
 | **[PesoFlow](https://pesoflow.vercel.app/)** | Zero-cost personal finance app with local-first storage and AI-powered advice. | React, IndexedDB, Hugging Face |
-| **[Portfolio (current)](https://itzme-rai.vercel.app/)** | Interactive portfolio with admin panel, built with React, TypeScript, and Appwrite. | React, TypeScript, Appwrite |
+| **[Portfolio (current)](https://itzrai.itzmerai.xyz/)** | Interactive portfolio with admin panel, built with React, TypeScript, and Appwrite. | React, TypeScript, Appwrite |
 | **OJT Monitoring System** | Web + mobile platform automating internship tracking, reports, and evaluations. | React, Express, MySQL, Expo |
 
-See more on my [portfolio →](https://itzmerai.netlify.app/)
+See more on my [portfolio →](https://itzrai.itzmerai.xyz/)
 
 ---
 
