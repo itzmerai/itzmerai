@@ -138,9 +138,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itzmerai&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=false&border_color=00ff4130&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41"/>
+<img height="180em" src="https://github-readme-stats-sigma-bay-33.vercel.app/api?username=itzmerai&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=false&border_color=00ff4130&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmerai&layout=compact&langs_count=8&theme=github_dark&hide_border=false&border_color=00ff4130&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats-sigma-bay-33.vercel.app/api/top-langs/?username=itzmerai&layout=compact&langs_count=8&theme=github_dark&hide_border=false&border_color=00ff4130&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
 
 </div>
 
