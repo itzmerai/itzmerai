@@ -1,7 +1,9 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:2F81F7&height=230&section=header&text=Ryan%20Amasora&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=I%20turn%20ideas%20into%20shipped%2C%20AI-native%20products&descSize=18&descAlignY=56" alt="header"/>
+# Ryan Amasora
+
+### I turn ideas into shipped, AI-native products
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&pause=1100&color=8B5CF6&center=true&vCenter=true&width=680&lines=Got+an+idea%3F+I+ship+it+end-to-end.;Web+apps%2C+APIs+%26+automation+%E2%80%94+done+right.;AI-native+delivery%3A+faster%2C+smarter%2C+cleaner." alt="Typing SVG" />
@@ -205,4 +207,8 @@ Replaced manual internship tracking with a **web + mobile platform** that automa
 </div>
 
 <!-- ============ FOOTER ============ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,50:8B5CF6,100:6366F1&height=120&section=footer&text=Let's%20build%20something%20great&fontSize=18&fontColor=ffffff&fontAlignY=70" alt="footer"/>
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider"/>
+
+<div align="center">
+<sub><i>Let's build something great.</i></sub>
+</div>
