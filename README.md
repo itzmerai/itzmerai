@@ -74,44 +74,6 @@ One engineer, the whole stack — from first wireframe to deployed product. No h
 
 <br/>
 
-<!-- ============ TECH STACK ============ -->
----
-
-## &nbsp;🛠️&nbsp; Tech Stack
-
-<div align="center">
-
-**🧩 &nbsp; Languages**
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,php,cs&theme=dark" alt="languages"/>
-
-**🎨 &nbsp; Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,astro,vite,tailwind&theme=dark" alt="frontend"/>
-
-**⚙️ &nbsp; Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,firebase,appwrite&theme=dark" alt="backend"/>
-
-**🗄️ &nbsp; Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" alt="databases"/>
-
-**🛠️ &nbsp; DevOps & Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" alt="tools"/>
-
-**🤖 &nbsp; AI & Automation**
-
-<img height="44" src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
-<img height="44" src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-<img height="44" src="https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white"/>
-<img height="44" src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white"/>
-
-</div>
-
-<br/>
-
 <!-- ============ PROJECTS ============ -->
 ---
 
