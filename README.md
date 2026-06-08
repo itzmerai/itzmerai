@@ -1,134 +1,155 @@
+<!-- ============ HEADER ============ -->
 <div align="center">
 
-# Ryan Amasora
-
-### AI-Native Full-Stack Software Engineer
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:2F81F7&height=220&section=header&text=Ryan%20Amasora&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Native%20Full-Stack%20Software%20Engineer&descSize=18&descAlignY=58" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Building+web+products%2C+services+%26+tooling;Agentic+coding+%26+intelligent+automation;Clean+code.+Thoughtful+architecture." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=640&lines=Building+web+products%2C+services+%26+tooling;Agentic+coding+%26+intelligent+automation;Clean+code.+Thoughtful+architecture." alt="Typing SVG" />
 </a>
 
-<p>
-  <a href="https://itzrai.itzmerai.xyz/"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/ryan-amasora-3763aa343/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/itzme_rai"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
-  <a href="mailto:ryanamasora71@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=itzmerai&style=flat-square&color=2F81F7&label=Profile+views" alt="Profile views"/>
-</p>
+<br/>
+
+<a href="https://itzrai.itzmerai.xyz/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/ryan-amasora-3763aa343/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/itzme_rai"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="mailto:ryanamasora71@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=itzmerai&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
----
+<br/>
 
-## About
+<!-- ============ ABOUT ============ -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider"/>
 
-Full-stack software engineer based in the Philippines, building products across web, services, and tooling. I treat AI agents and automation as first-class collaborators in the development loop — designing systems where intelligent workflows are built in from the start.
+## &nbsp;🧠&nbsp; About Me
 
-- 🧩 Working end-to-end: frontend, backend, APIs, databases, and integrations
-- 🤖 Specializing in **agentic coding** and **AI-driven automation**
-- 🚀 Shipping responsive UIs, robust services, and complete product features
-- 🤝 Open to collaborating with teams that value clean, scalable, well-architected code
+> Full-stack software engineer based in the **Philippines** 🇵🇭, building products across web, services, and tooling. I treat **AI agents and automation as first-class collaborators** in the development loop — designing systems where intelligent workflows are built in from the start.
 
----
+```yaml
+focus:       [ Agentic Coding, AI Automations, End-to-End Products ]
+working_on:  AI-native web products & automation pipelines
+philosophy:  "Clean code. Thoughtful architecture. AI-native workflows."
+status:      🟢 Open to collaboration
+```
 
-## Tech Stack
+<br/>
+
+<!-- ============ TECH STACK ============ -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider"/>
+
+## &nbsp;🛠️&nbsp; Tech Stack
+
+<div align="center">
 
 <table>
 <tr>
-<td valign="top"><b>Languages</b></td>
+<td align="center" width="140"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=ts,js,python,php,cs" alt="languages"/></td>
+</tr>
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,vue,astro,vite,tailwind" alt="frontend"/></td>
+</tr>
+<tr>
+<td align="center"><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,firebase,appwrite" alt="backend"/></td>
+</tr>
+<tr>
+<td align="center"><b>Databases</b></td>
+<td><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="databases"/></td>
+</tr>
+<tr>
+<td align="center"><b>AI &amp; Automation</b></td>
 <td>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+<img height="48" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img height="48" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img height="48" src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white"/>
+<img height="48" src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white"/>
 </td>
 </tr>
 <tr>
-<td valign="top"><b>Frontend</b></td>
-<td>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
-</td>
+<td align="center"><b>Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode" alt="tools"/></td>
 </tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ============ PROJECTS ============ -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider"/>
+
+## &nbsp;🚀&nbsp; Featured Projects
+
+<div align="center">
+
+<table>
 <tr>
-<td valign="top"><b>Backend</b></td>
-<td>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white"/>
+<td width="33%" valign="top">
+
+#### 💸 PesoFlow
+Zero-cost personal finance app with local-first storage and AI-powered advice.
+
+<sub>`React` · `IndexedDB` · `Hugging Face`</sub>
+
 </td>
-</tr>
-<tr>
-<td valign="top"><b>Databases</b></td>
-<td>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+<td width="33%" valign="top">
+
+#### 🧑‍💻 Portfolio
+Interactive portfolio with a custom-built admin panel.
+
+<sub>`React` · `TypeScript` · `Appwrite`</sub>
+
 </td>
-</tr>
-<tr>
-<td valign="top"><b>AI &amp; Automation</b></td>
-<td>
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white"/>
-<img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Tools</b></td>
-<td>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<td width="33%" valign="top">
+
+#### 🎓 OJT Monitoring
+Web + mobile platform automating internship tracking.
+
+<sub>`React` · `Express` · `MySQL` · `Expo`</sub>
+
 </td>
 </tr>
 </table>
 
----
+<a href="https://itzrai.itzmerai.xyz/"><img src="https://img.shields.io/badge/→%20Explore%20more%20on%20my%20Portfolio-6366F1?style=for-the-badge&logoColor=white" alt="portfolio"/></a>
 
-## Featured Projects
+</div>
 
-| Project | Description | Tech Stack |
-|:--------|:------------|:-----------|
-| **PesoFlow** | Zero-cost personal finance app with local-first storage and AI-powered advice | React · IndexedDB · Hugging Face |
-| **Portfolio** | Interactive portfolio with a custom admin panel | React · TypeScript · Appwrite |
-| **OJT Monitoring System** | Web + mobile platform automating internship tracking | React · Express · MySQL · Expo |
+<br/>
 
-<sub>→ Explore more on my <a href="https://itzrai.itzmerai.xyz/">portfolio</a></sub>
+<!-- ============ STATS ============ -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider"/>
 
----
-
-## GitHub Analytics
+## &nbsp;📊&nbsp; GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-sigma-bay-33.vercel.app/api?username=itzmerai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats-sigma-bay-33.vercel.app/api?username=itzmerai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=c9d1d9"/>
 &nbsp;
-<img height="170em" src="https://github-readme-stats-sigma-bay-33.vercel.app/api/top-langs/?username=itzmerai&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats-sigma-bay-33.vercel.app/api/top-langs/?username=itzmerai&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=itzmerai&theme=tokyonight&hide_border=true&background=0D1117&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=2F81F7&sideLabels=8b949e&dates=8b949e"/>
+<img src="https://streak-stats.demolab.com?user=itzmerai&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=8B5CF6&fire=8B5CF6&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8B5CF6&sideLabels=8b949e&dates=8b949e"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itzmerai&bg_color=0D1117&color=c9d1d9&line=2F81F7&point=ffffff&area_color=2F81F7&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itzmerai&bg_color=0D1117&color=c9d1d9&line=8B5CF6&point=ffffff&area_color=6366F1&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
----
+<br/>
 
+<!-- ============ SNAKE ============ -->
 <div align="center">
 
-<sub>Open to collaboration on projects that value clean code, thoughtful architecture, and AI-native workflows.</sub>
+<img width="100%" src="https://raw.githubusercontent.com/itzmerai/itzmerai/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
 </div>
+
+<!-- ============ FOOTER ============ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,50:8B5CF6,100:6366F1&height=120&section=footer&text=Let's%20build%20something%20great&fontSize=18&fontColor=ffffff&fontAlignY=70" alt="footer"/>
