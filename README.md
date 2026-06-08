@@ -81,37 +81,32 @@ One engineer, the whole stack — from first wireframe to deployed product. No h
 
 <div align="center">
 
-<table>
-<tr>
-<td align="right" valign="middle"><b>🧩&nbsp; Languages</b></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=ts,js,python,php,cs&theme=dark" alt="languages"/></td>
-</tr>
-<tr>
-<td align="right" valign="middle"><b>🎨&nbsp; Frontend</b></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,astro,vite,tailwind&theme=dark" alt="frontend"/></td>
-</tr>
-<tr>
-<td align="right" valign="middle"><b>⚙️&nbsp; Backend</b></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,firebase,appwrite&theme=dark" alt="backend"/></td>
-</tr>
-<tr>
-<td align="right" valign="middle"><b>🗄️&nbsp; Databases</b></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" alt="databases"/></td>
-</tr>
-<tr>
-<td align="right" valign="middle"><b>🛠️&nbsp; DevOps & Tools</b></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" alt="tools"/></td>
-</tr>
-<tr>
-<td align="right" valign="middle"><b>🤖&nbsp; AI & Automation</b></td>
-<td align="left">
+**🧩 &nbsp; Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,php,cs&theme=dark" alt="languages"/>
+
+**🎨 &nbsp; Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,astro,vite,tailwind&theme=dark" alt="frontend"/>
+
+**⚙️ &nbsp; Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,firebase,appwrite&theme=dark" alt="backend"/>
+
+**🗄️ &nbsp; Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" alt="databases"/>
+
+**🛠️ &nbsp; DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" alt="tools"/>
+
+**🤖 &nbsp; AI & Automation**
+
 <img height="44" src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
 <img height="44" src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
 <img height="44" src="https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white"/>
 <img height="44" src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white"/>
-</td>
-</tr>
-</table>
 
 </div>
 
