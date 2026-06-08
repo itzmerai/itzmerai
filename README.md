@@ -1,10 +1,10 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/itzmerai/itzmerai/main/assets/banner.gif?v=7" width="100%" alt="banner"/>
+<img src="https://raw.githubusercontent.com/itzmerai/itzmerai/main/assets/banner.gif?v=8" width="100%" alt="banner"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&pause=1100&color=8B5CF6&center=true&vCenter=true&width=680&lines=Got+an+idea%3F+I+ship+it+end-to-end.;Web+apps%2C+APIs+%26+automation+%E2%80%94+done+right.;AI-native+delivery%3A+faster%2C+smarter%2C+cleaner." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&pause=1100&color=8B5CF6&center=true&vCenter=true&width=680&lines=Got+an+idea%3F+I+ship+it+end-to-end.;Web+apps%2C+APIs+%26+automation+%E2%80%94+done+right.;Clean%2C+scalable%2C+well-architected+code." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,7 +15,7 @@
 <a href="https://x.com/itzme_rai"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <br/>
 <img src="https://img.shields.io/badge/🟢%20Available%20for%20freelance%20%26%20collaboration-0D1117?style=for-the-badge" alt="status"/>
-<img src="https://komarev.com/ghpvc/?username=itzmerai&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=itzmerai.itzmerai&style=for-the-badge&color=8B5CF6" alt="Profile views"/>
 
 </div>
 
@@ -68,7 +68,7 @@ One engineer, the whole stack — from first wireframe to deployed product. No h
 <div align="center">
 
 > ### 💡 Why clients keep me around
-> **AI-native = faster, leaner delivery** · **Clean, maintainable, well-architected code** · **End-to-end ownership** · **I sweat the details so you don't have to**
+> **Faster, leaner delivery** · **Clean, maintainable, well-architected code** · **End-to-end ownership** · **I sweat the details so you don't have to**
 
 </div>
 
@@ -109,7 +109,7 @@ One engineer, the whole stack — from first wireframe to deployed product. No h
 </tr>
 <tr>
 <td align="center"><b>Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,vscode" alt="tools"/></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="tools"/></td>
 </tr>
 </table>
 
