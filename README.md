@@ -24,7 +24,7 @@
 <br/>
 
 <!-- ============ HOOK ============ -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider"/>
+---
 
 <div align="center">
 
@@ -37,7 +37,7 @@ I close that gap. I'm a full-stack engineer from the **Philippines** 🇵🇭 wh
 <br/>
 
 <!-- ============ WHAT I DO ============ -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider"/>
+---
 
 ## &nbsp;💼&nbsp; What I Can Build For You
 
@@ -77,7 +77,7 @@ One engineer, the whole stack — from first wireframe to deployed product. No h
 <br/>
 
 <!-- ============ TECH STACK ============ -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider"/>
+---
 
 ## &nbsp;🛠️&nbsp; The Toolkit
 
@@ -120,7 +120,7 @@ One engineer, the whole stack — from first wireframe to deployed product. No h
 <br/>
 
 <!-- ============ PROJECTS ============ -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider"/>
+---
 
 ## &nbsp;🚀&nbsp; Work I'm Proud Of
 
@@ -162,7 +162,7 @@ Replaced manual internship tracking with a **web + mobile platform** that automa
 <br/>
 
 <!-- ============ STATS ============ -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider"/>
+---
 
 ## &nbsp;📊&nbsp; Always Shipping
 
@@ -207,7 +207,7 @@ Replaced manual internship tracking with a **web + mobile platform** that automa
 </div>
 
 <!-- ============ FOOTER ============ -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider"/>
+---
 
 <div align="center">
 <sub><i>Let's build something great.</i></sub>
