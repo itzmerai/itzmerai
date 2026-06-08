@@ -1,45 +1,83 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:2F81F7&height=220&section=header&text=Ryan%20Amasora&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Native%20Full-Stack%20Software%20Engineer&descSize=18&descAlignY=58" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:2F81F7&height=230&section=header&text=Ryan%20Amasora&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=I%20turn%20ideas%20into%20shipped%2C%20AI-native%20products&descSize=18&descAlignY=56" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=640&lines=Building+web+products%2C+services+%26+tooling;Agentic+coding+%26+intelligent+automation;Clean+code.+Thoughtful+architecture." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&pause=1100&color=8B5CF6&center=true&vCenter=true&width=680&lines=Got+an+idea%3F+I+ship+it+end-to-end.;Web+apps%2C+APIs+%26+automation+%E2%80%94+done+right.;AI-native+delivery%3A+faster%2C+smarter%2C+cleaner." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://itzrai.itzmerai.xyz/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://itzrai.itzmerai.xyz/"><img src="https://img.shields.io/badge/View%20My%20Work-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:ryanamasora71@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-22C55E?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Hire me"/></a>
 <a href="https://www.linkedin.com/in/ryan-amasora-3763aa343/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://x.com/itzme_rai"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="mailto:ryanamasora71@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <br/>
+<img src="https://img.shields.io/badge/🟢%20Available%20for%20freelance%20%26%20collaboration-0D1117?style=for-the-badge" alt="status"/>
 <img src="https://komarev.com/ghpvc/?username=itzmerai&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 <br/>
 
-<!-- ============ ABOUT ============ -->
+<!-- ============ HOOK ============ -->
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider"/>
 
-## &nbsp;🧠&nbsp; About Me
+<div align="center">
 
-> Full-stack software engineer based in the **Philippines** 🇵🇭, building products across web, services, and tooling. I treat **AI agents and automation as first-class collaborators** in the development loop — designing systems where intelligent workflows are built in from the start.
+### Most apps die in the gap between *"great idea"* and *"actually shipped."*
 
-```yaml
-focus:       [ Agentic Coding, AI Automations, End-to-End Products ]
-working_on:  AI-native web products & automation pipelines
-philosophy:  "Clean code. Thoughtful architecture. AI-native workflows."
-status:      🟢 Open to collaboration
-```
+I close that gap. I'm a full-stack engineer from the **Philippines** 🇵🇭 who builds complete, production-ready products — frontend, backend, database, and the AI automations that make them smarter — and I use AI agents in my own workflow to **ship more, faster, without cutting corners on quality.**
+
+</div>
+
+<br/>
+
+<!-- ============ WHAT I DO ============ -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider"/>
+
+## &nbsp;💼&nbsp; What I Can Build For You
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🖥️ Web Apps That Convert
+Fast, responsive interfaces in React, Next.js & Vue — pixel-clean and built to scale.
+
+#### ⚙️ Backends That Don't Break
+Robust APIs and services with Node, NestJS & Laravel, on databases that stay reliable under load.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🤖 AI & Automation That Saves Hours
+Custom AI features and n8n / Zapier / Make pipelines that quietly do the repetitive work for you.
+
+#### 📦 End-to-End Delivery
+One engineer, the whole stack — from first wireframe to deployed product. No hand-off gaps.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ============ WHY ME ============ -->
+<div align="center">
+
+> ### 💡 Why clients keep me around
+> **AI-native = faster, leaner delivery** · **Clean, maintainable, well-architected code** · **End-to-end ownership** · **I sweat the details so you don't have to**
+
+</div>
 
 <br/>
 
 <!-- ============ TECH STACK ============ -->
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider"/>
 
-## &nbsp;🛠️&nbsp; Tech Stack
+## &nbsp;🛠️&nbsp; The Toolkit
 
 <div align="center">
 
@@ -82,7 +120,7 @@ status:      🟢 Open to collaboration
 <!-- ============ PROJECTS ============ -->
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider"/>
 
-## &nbsp;🚀&nbsp; Featured Projects
+## &nbsp;🚀&nbsp; Work I'm Proud Of
 
 <div align="center">
 
@@ -91,23 +129,23 @@ status:      🟢 Open to collaboration
 <td width="33%" valign="top">
 
 #### 💸 PesoFlow
-Zero-cost personal finance app with local-first storage and AI-powered advice.
+A personal-finance app that runs at **zero cost** — local-first storage, no server bills, plus AI-powered money advice built in.
 
 <sub>`React` · `IndexedDB` · `Hugging Face`</sub>
 
 </td>
 <td width="33%" valign="top">
 
-#### 🧑‍💻 Portfolio
-Interactive portfolio with a custom-built admin panel.
+#### 🧑‍💻 Portfolio Platform
+A polished portfolio with a **custom admin panel** — content managed without touching code.
 
 <sub>`React` · `TypeScript` · `Appwrite`</sub>
 
 </td>
 <td width="33%" valign="top">
 
-#### 🎓 OJT Monitoring
-Web + mobile platform automating internship tracking.
+#### 🎓 OJT Monitoring System
+Replaced manual internship tracking with a **web + mobile platform** that automates the whole workflow.
 
 <sub>`React` · `Express` · `MySQL` · `Expo`</sub>
 
@@ -115,7 +153,7 @@ Web + mobile platform automating internship tracking.
 </tr>
 </table>
 
-<a href="https://itzrai.itzmerai.xyz/"><img src="https://img.shields.io/badge/→%20Explore%20more%20on%20my%20Portfolio-6366F1?style=for-the-badge&logoColor=white" alt="portfolio"/></a>
+<a href="https://itzrai.itzmerai.xyz/"><img src="https://img.shields.io/badge/→%20See%20the%20full%20portfolio-6366F1?style=for-the-badge&logoColor=white" alt="portfolio"/></a>
 
 </div>
 
@@ -124,7 +162,7 @@ Web + mobile platform automating internship tracking.
 <!-- ============ STATS ============ -->
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider"/>
 
-## &nbsp;📊&nbsp; GitHub Analytics
+## &nbsp;📊&nbsp; Always Shipping
 
 <div align="center">
 
@@ -148,6 +186,21 @@ Web + mobile platform automating internship tracking.
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/itzmerai/itzmerai/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+</div>
+
+<br/>
+
+<!-- ============ CTA ============ -->
+<div align="center">
+
+## &nbsp;📬&nbsp; Have a project in mind?
+
+**I take on freelance builds and collaborations.** Tell me what you're trying to ship — I'll tell you how I'd build it.
+
+<a href="mailto:ryanamasora71@gmail.com"><img src="https://img.shields.io/badge/📧%20Let's%20talk-22C55E?style=for-the-badge&logoColor=white" alt="email"/></a>
+<a href="https://itzrai.itzmerai.xyz/"><img src="https://img.shields.io/badge/🌐%20See%20my%20work-6366F1?style=for-the-badge&logoColor=white" alt="portfolio"/></a>
+<a href="https://www.linkedin.com/in/ryan-amasora-3763aa343/"><img src="https://img.shields.io/badge/💬%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 
 </div>
 
