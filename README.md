@@ -1,13 +1,7 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/itzmerai/itzmerai/main/assets/banner.gif" width="420" alt="banner"/>
-
-### `React` &nbsp;•&nbsp; `Next.js` &nbsp;•&nbsp; `TypeScript` &nbsp;•&nbsp; `Node.js`
-
-# Ryan Amasora
-
-### I turn ideas into shipped, AI-native products
+<img src="https://raw.githubusercontent.com/itzmerai/itzmerai/main/assets/banner.gif" width="100%" alt="banner"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&pause=1100&color=8B5CF6&center=true&vCenter=true&width=680&lines=Got+an+idea%3F+I+ship+it+end-to-end.;Web+apps%2C+APIs+%26+automation+%E2%80%94+done+right.;AI-native+delivery%3A+faster%2C+smarter%2C+cleaner." alt="Typing SVG" />
