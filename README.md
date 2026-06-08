@@ -1,7 +1,7 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/itzmerai/itzmerai/main/assets/banner.gif" width="100%" alt="banner"/>
+<img src="https://raw.githubusercontent.com/itzmerai/itzmerai/main/assets/banner.gif" width="420" alt="banner"/>
 
 ### `React` &nbsp;•&nbsp; `Next.js` &nbsp;•&nbsp; `TypeScript` &nbsp;•&nbsp; `Node.js`
 
