@@ -15,7 +15,6 @@
 <a href="https://x.com/itzme_rai"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <br/>
 <img src="https://img.shields.io/badge/🟢%20Available%20for%20freelance%20%26%20collaboration-0D1117?style=for-the-badge" alt="status"/>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=itzmerai.itzmerai&style=for-the-badge&color=8B5CF6" alt="Profile views"/>
 
 </div>
 
@@ -126,23 +125,6 @@ Replaced manual internship tracking with a **web + mobile platform** that automa
 <img height="180em" src="https://github-readme-stats-sigma-bay-33.vercel.app/api?username=itzmerai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=c9d1d9"/>
 &nbsp;
 <img height="180em" src="https://github-readme-stats-sigma-bay-33.vercel.app/api/top-langs/?username=itzmerai&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=itzmerai&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=8B5CF6&fire=8B5CF6&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8B5CF6&sideLabels=8b949e&dates=8b949e"/>
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itzmerai&bg_color=0D1117&color=c9d1d9&line=8B5CF6&point=ffffff&area_color=6366F1&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
-
-</div>
-
-<br/>
-
-<!-- ============ SNAKE ============ -->
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/itzmerai/itzmerai/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
 </div>
 
