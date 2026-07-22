@@ -73,48 +73,6 @@ One engineer, the whole stack — from first wireframe to deployed product. No h
 
 <br/>
 
-<!-- ============ PROJECTS ============ -->
----
-
-## &nbsp;🚀&nbsp; Work I'm Proud Of
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-#### 💸 PesoFlow
-A personal-finance app that runs at **zero cost** — local-first storage, no server bills, plus AI-powered money advice built in.
-
-<sub>`React` · `IndexedDB` · `Hugging Face`</sub>
-
-</td>
-<td width="33%" valign="top">
-
-#### 🧑‍💻 Portfolio Platform
-A polished portfolio with a **custom admin panel** — content managed without touching code.
-
-<sub>`React` · `TypeScript` · `Appwrite`</sub>
-
-</td>
-<td width="33%" valign="top">
-
-#### 🎓 OJT Monitoring System
-Replaced manual internship tracking with a **web + mobile platform** that automates the whole workflow.
-
-<sub>`React` · `Express` · `MySQL` · `Expo`</sub>
-
-</td>
-</tr>
-</table>
-
-<a href="https://itzrai.itzmerai.xyz/"><img src="https://img.shields.io/badge/→%20See%20the%20full%20portfolio-6366F1?style=for-the-badge&logoColor=white" alt="portfolio"/></a>
-
-</div>
-
-<br/>
-
 <!-- ============ STATS ============ -->
 ---
 
@@ -125,6 +83,10 @@ Replaced manual internship tracking with a **web + mobile platform** that automa
 <img height="180em" src="https://github-readme-stats-sigma-bay-33.vercel.app/api?username=itzmerai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=c9d1d9"/>
 &nbsp;
 <img height="180em" src="https://github-readme-stats-sigma-bay-33.vercel.app/api/top-langs/?username=itzmerai&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9"/>
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itzmerai&bg_color=0D1117&color=c9d1d9&line=8B5CF6&point=ffffff&area_color=6366F1&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
