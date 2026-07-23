@@ -80,8 +80,11 @@ One engineer, the whole stack — from first wireframe to deployed product. No h
 
 <div align="center">
 
+<!-- Stats card temporarily disabled: the sigma-bay-33 instance's PAT can't access the stats query.
+     Re-enable this <img> after fixing PAT_1 (classic token: repo + read:user) on the Vercel instance and redeploying.
 <img height="180em" src="https://github-readme-stats-sigma-bay-33.vercel.app/api?username=itzmerai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=c9d1d9"/>
 &nbsp;
+-->
 <img height="180em" src="https://github-readme-stats-sigma-bay-33.vercel.app/api/top-langs/?username=itzmerai&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9"/>
 
 <br/>
