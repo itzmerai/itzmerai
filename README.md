@@ -89,7 +89,10 @@ One engineer, the whole stack — from first wireframe to deployed product. No h
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itzmerai&bg_color=0D1117&color=c9d1d9&line=8B5CF6&point=ffffff&area_color=6366F1&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+<!-- Host swapped: github-readme-activity-graph.vercel.app now returns HTTP 402
+     DEPLOYMENT_DISABLED, which GitHub renders as a broken image icon.
+     activity-graph.vercel.app runs the same project with identical params. -->
+<img width="100%" src="https://activity-graph.vercel.app/graph?username=itzmerai&bg_color=0D1117&color=c9d1d9&line=8B5CF6&point=ffffff&area_color=6366F1&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
